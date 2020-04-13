@@ -1,3 +1,9 @@
 1) This is my first file.
 
 Production changes: Application is LIVE !!!
+
+First Commit: Perform first changes in File1.txt
+Second Commit: Perform second changes in File1.txt
+Third Commit: Perform third changes in File1.txt
+Fourth Commit: Perform fourth changes in File1.txt
+
