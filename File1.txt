@@ -6,4 +6,6 @@ Third Commit: Perform third changes in File1.txt
 Fourth Commit: Perform fourth changes in File1.txt
 
 Phase Four Changes: Fifth commit to Feature1 branch: Perform fifth changes in File1.txt.
-Phase Four Changes: Sixth commit to Feature1 branhc: Perform sixth changes in File1.txt.
+Phase Four Changes: Sixth commit to Feature1 branch: Perform sixth changes in File1.txt.
+
+Production changes 2: New Payment Gateways introduce in the application. Now customer can do the payment from BHIM UPI.
